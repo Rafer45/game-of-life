@@ -188,7 +188,7 @@ switch(world) {
 
 // var world = silliness(60,60,0.5)
 
-// gameOfLife(delay,world,[2,3],[3])
+gameOfLife(delay,world,[2,3],[3])
 
 // Silly easter eggs.
 // Spook:
